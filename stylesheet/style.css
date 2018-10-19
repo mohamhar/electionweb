@@ -1,0 +1,154 @@
+/* Clear, zero and reset CSS made byt the browser.*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+main, menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+  font-family: 'Lato', sans-serif;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, main, menu, nav, section {
+	display: block;
+}
+/* HTML5 hidden-attribute fix for newer browsers */
+*[hidden] {
+    display: none;
+}
+body {
+	line-height: 1.6;
+  font-size:1.2em;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* End the CSS Reset 
+
+############################
+############################
+############################
+
+ Start CSS Code for the Website */
+
+
+
+
+header {
+  margin:1.5em;
+}
+.port {
+  float:left;
+  width:15%;
+  margin:.5em;
+}
+.headinfo {
+  float:left;
+  width:75%;
+  margin-left:.5em;
+  margin-bottom:1.5em;
+}
+nav {
+  clear:both;
+  width:100%;
+  font-weight:600;
+}
+nav ul {
+  margin:0;
+  padding:0;
+  overflow:hidden;
+  background-color:#CC0033;
+}
+nav li {
+  float:left;
+}
+nav li a {
+  display:block;
+  padding: 14px 16px;
+}
+a, a:link {
+  text-decoration:none;
+  color:#000000;
+  margin-left:auto;
+  margin-right:auto;
+  width:100%;
+}
+.slideshow {
+  float:left;
+  width:60%;
+  margin:1.5em;
+}
+.slidepic {
+  margin-left:auto;
+  margin-right:auto;
+}
+h3 {
+  float:left;
+  width:60%;
+  font-weight:400;
+  line-height:1.2;
+  font-size:5rem;
+  margin:1em;
+}
+.brief_bio {
+  float:left;
+  width:60%;
+  margin:1em;
+}
+
+.display {
+  font-size:4.5rem;
+  font-weight:300;
+  line-height:1.2;
+  margin-bottom:.3em;
+}
+.priorities {
+  float:left;
+  width:60%;
+  margin-top:1em;
+  margin-bottom:1em;
+  text-align:center;
+}
+.events {
+  float:right;
+  width:25%;
+  margin-top:-15em;
+}
+h4 {
+  font-size:3.5em;
+  font-weight:300;
+  line-height:1.2;
+  
+}
+.links {
+  clear:both;
+  text-align:right;
+  width:100%;
+}
