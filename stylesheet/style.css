@@ -13,41 +13,46 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 main, menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-  font-family: 'Lato', sans-serif;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+     font-family: 'Lato', sans-serif;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, main, menu, nav, section {
-	display: block;
+  display: block;
 }
 /* HTML5 hidden-attribute fix for newer browsers */
 *[hidden] {
     display: none;
 }
 body {
-	line-height: 1.6;
-  font-size:1.2em;
+ line-height: 2.5;
+  font-size:1.3em;
+  background-color: aliceblue;
 }
 ol, ul {
-	list-style: none;
+  list-style: none;
 }
 blockquote, q {
-	quotes: none;
+  quotes: none;
+
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
-	content: '';
-	content: none;
+  content: '';
+  content: none;
+   
 }
 table {
-	border-collapse: collapse;
-	border-spacing: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
+
+
 }
 
 /* End the CSS Reset 
@@ -59,91 +64,116 @@ table {
  Start CSS Code for the Website */
 
 
-
-
 header {
-  margin:1.5em;
+  margin:0;
+
 }
 .port {
   float:left;
-  width:15%;
-  margin:.5em;
+  width:16%;
+  margin:0;
 }
 .headinfo {
-  float:left;
-  width:75%;
-  margin-left:.5em;
-  margin-bottom:1.5em;
+  float: inherit;
+  width:110%;
+  margin-left:0em;
+  margin-bottom:0em;
+ color: #FFF;
+ background-color: #211ecc;
+  font-size:4rem;
+
+
 }
 nav {
   clear:both;
+  width:109.5%;
+  font-weight:900;
+  background-color:#FD0000;
+  border: 5px solid #000;  
+
+}
+  h3 {
+  float:left;
   width:100%;
-  font-weight:600;
+  font-weight:400;
+  line-height:0.8;
+  font-size:4rem;
+  margin:1em;
+  color: black;
 }
 nav ul {
   margin:0;
   padding:0;
   overflow:hidden;
-  background-color:#CC0033;
 }
 nav li {
   float:left;
+    
+
 }
 nav li a {
   display:block;
-  padding: 14px 16px;
+  padding: 14px 16px; 
 }
 a, a:link {
   text-decoration:none;
-  color:#000000;
   margin-left:auto;
   margin-right:auto;
-  width:100%;
+  width:100%;  
+
+
 }
 .slideshow {
-  float:left;
-  width:60%;
+  float:right;
+  width:70%;
   margin:1.5em;
 }
 .slidepic {
   margin-left:auto;
   margin-right:auto;
-}
-h3 {
-  float:left;
+
+.brief_bio {
+  float:right;
   width:60%;
-  font-weight:400;
-  line-height:1.2;
-  font-size:5rem;
-  margin:1em;
+  margin:1em;     
+
 }
+}
+
 .brief_bio {
   float:left;
   width:60%;
   margin:1em;
+  border: 5px dashed #EF0016;  
+
 }
 
 .display {
   font-size:4.5rem;
-  font-weight:300;
+  font-weight:90;
   line-height:1.2;
   margin-bottom:.3em;
+
+
 }
 .priorities {
   float:left;
   width:60%;
-  margin-top:1em;
-  margin-bottom:1em;
-  text-align:center;
+  margin:1em;
+ text-align:center;
+ border: 5px dashed #EF0016;  
 }
 .events {
   float:right;
-  width:25%;
-  margin-top:-15em;
+  width:18%;
+  margin-top:-20em;
+   margin-right:6em;
+   color:#EF0016;
+    border: 3px dashed #000;
 }
 h4 {
-  font-size:3.5em;
-  font-weight:300;
+  font-size:1.2em;
+  font-weight:800;
   line-height:1.2;
   
 }
