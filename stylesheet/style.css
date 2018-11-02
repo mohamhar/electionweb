@@ -13,7 +13,7 @@ body{
 background: linear-gradient(rgba(0, 21.6, 42.4), rgba(0, 21.6, 42.4)), url(http://hs.nbpschools.net/images/white_wave.jpg);
 }
 
-/*Background color of the the content behind the cards
+/*Background color of the the content behind the cards*/
 #content{
 background-color: white;
 }
