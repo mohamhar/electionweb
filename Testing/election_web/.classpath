@@ -17,7 +17,7 @@
 	<classpathentry kind="lib" path="C:/Users/gbwyo/Downloads/Katalon_Studio_Windows_64-5.8.5/Katalon_Studio_Windows_64-5.8.5/configuration/resources/lib/repackaged-guava-19.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/gbwyo/Downloads/Katalon_Studio_Windows_64-5.8.5/Katalon_Studio_Windows_64-5.8.5/configuration/resources/lib/repackaged-sikuli-api-1.0.2-standalone.jar"/>
 	<classpathentry kind="lib" path="C:/Users/gbwyo/Downloads/Katalon_Studio_Windows_64-5.8.5/Katalon_Studio_Windows_64-5.8.5/configuration/resources/lib/selenium-leg-rc-3.7.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gbwyo/Downloads/Katalon_Studio_Windows_64-5.8.5/Katalon_Studio_Windows_64-5.8.5/configuration/resources/lib/selenium-server-standalone-3.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gbwyo/Downloads/Katalon_Studio_Windows_64-5.8.5/Katalon_Studio_Windows_64-5.8.5/configuration/resources/lib/selenium-server-standalone-3.9.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/gbwyo/Downloads/Katalon_Studio_Windows_64-5.8.5/Katalon_Studio_Windows_64-5.8.5/configuration/resources/lib/testng-6.11.jar"/>
 	<classpathentry kind="lib" path="C:/Users/gbwyo/Downloads/Katalon_Studio_Windows_64-5.8.5/Katalon_Studio_Windows_64-5.8.5/plugins/net.sf.supercsv.super-csv_2.1.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/gbwyo/Downloads/Katalon_Studio_Windows_64-5.8.5/Katalon_Studio_Windows_64-5.8.5/plugins/org.apache.poi_3.9.0.v201405241750.jar"/>
