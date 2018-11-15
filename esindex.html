@@ -12,32 +12,21 @@
 
 <!-- Links (sit on top) -->
 <nav>
-<div class="w3-top">
-  <div class="w3-row w3-large w3-light-grey">
-    <div class="w3-col s2">
-      <a href="esindex.html" class="w3-button w3-block">Página Principal</a>
-    </div>
-    <div class="w3-col s2">
-      <a href="esabout.html" class="w3-button w3-block">Sobre mí</a>
-    </div>
-    <div class="w3-col s2">
-      <a href="esplans.html" class="w3-button w3-block">Planes</a>
-    </div>
-    <div class="w3-col s2">
-	      <a href="eswhyvote.html" class="w3-button w3-block"> ¿Por qué votar? </a>
-    </div>
-    <div class="w3-col s2">
-      <a href="esvolunteer.html" class="w3-button w3-block">Ser voluntario</a>
-    </div>
-    <div class="w3-col s2">
-	      <a href="index.html" class="w3-button w3-block">For English</a>
-    </div>
-  </div>
+<div class="topnav" id="myTopnav">
+  <a href="esindex.html" class="active">Página Principal</a>
+  <a href="esabout.html">Sobre mí</a>
+  <a href="esplans.html">Planes</a>
+  <a href="eswhyvote.html">¿Por qué votar?</a>
+  <a href="esvolunteer.html">Ser voluntario</a>
+  <a href="index.html">For English</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
 </div>
 </nav>
 
 <!-- Content -->
-<div class="w3-content" id="content" style="max-width:1100px;margin-top:80px;margin-bottom:80px">
+<div class="w3-content" id="content">
 
   <div class="w3-panel" id="top">
     <h1><b>VOTE POR JERRY B. MERCADO</b></h1>
@@ -46,51 +35,48 @@
 
   <!-- Slideshow -->
     <!-- School Uniforms Font Page -->
-   <div class="w3-container">
     <div class="w3-display-container mySlides">
-      <img src="images/U-1.jpg" style="width:100%; height:640px">
+      <img class="slide" src="images/U-1.jpg">
       <div class="w3-container w3-padding-32" id="caption">
-        <span class="custom-black w3-padding-large w3-animate-bottom">Uniformes de las Escuelas Públicas</span>
+        <span class="custom-black lrPadding w3-animate-bottom">Uniformes de las Escuelas Públicas</span>
       </div>
     </div>
 
     <!-- School Uniforms Second Page -->
-  <div class="w3-container">
     <div class="w3-display-container mySlides">
-      <img src="images/U-2.jpg" style="width:100%; height:640px">
+      <img class="slide" src="images/U-2.jpg">
       <div class="w3-container w3-padding-32" id="caption">
-        <span class="custom-black w3-padding-large w3-animate-bottom">Uniformes de las Escuelas Públicas </span>
+        <span class="custom-black lrPadding w3-animate-bottom">Uniformes de las Escuelas Públicas </span>
       </div>
     </div>
 
     <!-- Housing Auth. -->
-     <div class="w3-container">
+  
     <div class="w3-display-container mySlides">
-      <img src="images/H-1.jpg" style="width:100%; height:640px">
+      <img class="slide" src="images/H-1.jpg">
       <div class="w3-container w3-padding-32" id="caption">
-        <span class="custom-black w3-padding-large w3-animate-bottom">Autoridad de Vivienda de New Brunswick</span>
+        <span class="custom-black lrPadding w3-animate-bottom">Autoridad de Vivienda de New Brunswick</span>
       </div>
     </div>
     <!--Recreational Soccer League -->
-  <div class="w3-container">
     <div class="w3-display-container mySlides">
-      <img src="images/4.jpg" style="width:100%; height:640px">
+      <img class="slide" src="images/4.jpg">
       <div class="w3-container w3-padding-32" id="caption">
-        <span class="custom-black w3-padding-large w3-animate-bottom">Liga de fútbol recreativo de Nuevo Brunswick</span>
+        <span class="custom-black lrPadding w3-animate-bottom">Liga de fútbol recreativo de Nuevo Brunswick</span>
       </div>
     </div>
         <!-- Children -->
     <div class="w3-display-container mySlides">
-      <img src="images/12.jpg" style="width:100%; height:640px">
+      <img class="slide" src="images/12.jpg">
       <div class="w3-container w3-padding-32" id="caption">
-        <span class="custom-black w3-padding-large w3-animate-bottom">Mis Hijos</span>
+        <span class="custom-black lrPadding w3-animate-bottom">Mis Hijos</span>
       </div>
     </div>
         <!-- Little League Opening -->
     <div class="w3-display-container mySlides">
-      <img src="images/2013_LLeague_OpeningCermoney wCheck Presentation.jpg" style="width:100%; height:640px">
+      <img class="slide" src="images/2013_LLeague_OpeningCermoney wCheck Presentation.jpg">
       <div class="w3-container w3-padding-32" id="caption">
-        <span class="custom-black w3-padding-large w3-animate-bottom">Ceremonia de Apertura de la Pequeña Liga en el 2013</span>
+        <span class="custom-black lrPadding w3-animate-bottom">Ceremonia de Apertura de la Pequeña Liga</span>
       </div>
     </div>
 
@@ -100,37 +86,42 @@
       <div class="w3-right" onclick="plusDivs(1)"><i class="fa fa-arrow-circle-right w3-hover-text-teal"></i></div>
 
       <div class="w3-center">
-        <span class="w3-tag demodots w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
-        <span class="w3-tag demodots w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
-        <span class="w3-tag demodots w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
+          <span class="w3-tag demodots w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
+          <span class="w3-tag demodots w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
+          <span class="w3-tag demodots w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
+          <span class="w3-tag demodots w3-border w3-transparent w3-hover-white" onclick="currentDiv(4)"></span>
+          <span class="w3-tag demodots w3-border w3-transparent w3-hover-white" onclick="currentDiv(5)"></span>
+          <span class="w3-tag demodots w3-border w3-transparent w3-hover-white" onclick="currentDiv(6)"></span>
+        </div>
       </div>
+
+<hr width="100%">
+<div class="w3-row-padding" id="about">
+  <div class="w3-card-4">
+    <div class="w3-container" id="plans">
+      <h2 color ="black"><span class="w3-xlarge underline padding">Participación Educativa: </span></h2>
+      <ul color="black">
+        <br>
+        <li> <h3> Abogé por un programa de uniformes escolares obligatorios para estudiantes en el público de New Brunswick.</h3></li>
+        <li> <h3>Creé la Liga Pequeña de New Brunswick para enseñar béisbol competitivo. </h3></li>
+      </ul>
+
+      <h2 color ="black"><span class="w3-xlarge underline padding">Participación en la Comunidad: </span></h2>
+      <ul color="black">
+          <br>
+        <li> <h3>Implementé un programa de becas para residentes de viviendas públicas.</h3></li>
+        <li><h3> Entrené a los niños de New Brunswick en diferentes programas atléticos.</h3></li>
+      </ul>
+
+      <h2 color ="black"><span class="w3-xlarge underline padding">Experiencia en la Junta en New Brunswick: </span></h2>
+      <ul color="black">
+          <br>
+        <li color ="black"><h3> Fundador y Presidente: La Pequeña Liga de New Brunswick: 2012 -2016.</h3></li>
+        <li><h3> Miembro de la Junta: Junta de Ajuste de Zonificación: 2002 - 2009.</h3> </li>
+        <li> <h3>Comisionado: Autoridad de Vivienda de New Brunswick.</h3> </li><br>
+      </ul>
     </div>
   </div>
-
-<hr align="left" width="100%">
-
-<h2><font color ="white"><span class="w3-xlarge underline title w3-padding-16">Participación Educativa: </span></font></h2>
-
-<ul><font color="white">
-  <li> <h3> Abogé por un programa de uniformes escolares obligatorios para estudiantes en el público de New Brunswick.</h3></li>
-  <li> <h3>Creé la Liga Pequeña de New Brunswick para enseñar béisbol competitivo. </h3></li>
-  </font></ul>
-
-<h2><font color ="white"><span class="w3-xlarge underline title w3-padding-16">Participación en la Comunidad: </span></font></h2>
-<ul><font color="white">
-  <li> <h3>Implementé un programa de becas para residentes de viviendas públicas.</h3></li>
-  <li><h3> Entrené a los niños de New Brunswick en diferentes programas atléticos.</h3></li>
-  </font></ul>
-
-<h2><font color ="white"><span class="w3-xlarge underline title w3-padding-16">Experiencia en la Junta en New Brunswick: </span></font></h2>
-<ul><font color="white">
-  <li> <font color ="white"><h3> Fundador y Presidente: La Pequeña Liga de New Brunswick: 2012 -2016.</h3></font></li>
-  <li><h3> Miembro de la Junta: Junta de Ajuste de Zonificación: 2002 - 2009.</h3> </li>
-  <li> <h3>Comisionado: Autoridad de Vivienda de New Brunswick.</h3> </li><br>
-  </font></ul>
-</div>
-  </div>
-</div>
 </div>
 
 
@@ -163,6 +154,19 @@ function showDivs(n) {
   dots[slideIndex-1].className += " w3-white";
 }
 </script>
+
+<!--Start Nav Hamburger Menu-->
+<script>
+    function myFunction() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+            x.className += " responsive";
+        } else {
+            x.className = "topnav";
+        }
+    }
+    </script>
+    <!--End Nav Hamburger Menu-->
 
 
 

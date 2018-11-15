@@ -12,29 +12,18 @@
 
 <!-- Links (sit on top) -->
 <nav>
-<div class="w3-top">
-  <div class="w3-row w3-large w3-light-grey">
-    <div class="w3-col s2">
-      <a href="index.html" class="w3-button w3-block">Home</a>
-    </div>
-    <div class="w3-col s2">
-      <a href="about.html" class="w3-button w3-block">About</a>
-    </div>
-    <div class="w3-col s2">
-      <a href="plans.html" class="w3-button w3-block">Plans</a>
-    </div>
-    <div class="w3-col s2">
-	      <a href="whyvote.html" class="w3-button w3-block">Why Vote?</a>
-    </div>
-    <div class="w3-col s2">
-      <a href="volunteer.html" class="w3-button w3-block">Volunteer</a>
-    </div>
-    <div class="w3-col s2">
-	      <a href="esindex.html" class="w3-button w3-block">Para Espanol</a>
-    </div>
+  <div class="topnav" id="myTopnav">
+    <a href="index.html">Home</a>
+    <a href="about.html" class="active">About</a>
+    <a href="plans.html">Plans</a>
+    <a href="whyvote.html">Why Vote?</a>
+    <a href="volunteer.html">Volunteer</a>
+    <a href="esindex.html">Para Español</a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+      <i class="fa fa-bars"></i>
+    </a>
   </div>
-</div>
-</nav>
+  </nav>
 
 <!-- Content -->
 <div class="w3-content" id="content" style="max-width:1100px;margin-top:80px;margin-bottom:80px">
@@ -72,6 +61,18 @@
       </div>
   </div>
 
+  <!--Start Nav Hamburger Menu-->
+<script>
+  function myFunction() {
+      var x = document.getElementById("myTopnav");
+      if (x.className === "topnav") {
+          x.className += " responsive";
+      } else {
+          x.className = "topnav";
+      }
+  }
+  </script>
+  <!--End Nav Hamburger Menu-->
 
 <!-- Footer -->
 

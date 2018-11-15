@@ -12,29 +12,18 @@
 
 <!-- Links (sit on top) -->
 <nav>
-<div class="w3-top">
-  <div class="w3-row w3-large w3-light-grey">
-    <div class="w3-col s2">
-      <a href="index.html" class="w3-button w3-block">Home</a>
-    </div>
-    <div class="w3-col s2">
-      <a href="about.html" class="w3-button w3-block">About</a>
-    </div>
-    <div class="w3-col s2">
-      <a href="plans.html" class="w3-button w3-block">Plans</a>
-    </div>
-    <div class="w3-col s2">
-	      <a href="whyvote.html" class="w3-button w3-block">Why Vote?</a>
-    </div>
-    <div class="w3-col s2">
-      <a href="volunteer.html" class="w3-button w3-block">Volunteer</a>
-    </div>
-    <div class="w3-col s2">
-	      <a href="esindex.html" class="w3-button w3-block">Para Espanol</a>
-    </div>
+  <div class="topnav" id="myTopnav">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="plans.html">Plans</a>
+    <a href="whyvote.html">Why Vote?</a>
+    <a href="volunteer.html" class="active">Volunteer</a>
+    <a href="esindex.html">Para Español</a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+      <i class="fa fa-bars"></i>
+    </a>
   </div>
-</div>
-</nav>
+  </nav>
 
 <!-- Content -->
 <div class="w3-content" id="content" style="max-width:1100px;margin-top:80px;margin-bottom:80px">
@@ -60,11 +49,11 @@
     </div>
     <div class="w3-section">
       <label>Email</label>
-      <input class="w3-input w3-border w3-hover-border-black" style="width:100%;" type="text" name="Email" required>
+      <input class="w3-input w3-border w3-hover-border-black" style="width:100%;" type="email" name="Email" required>
     </div>
     <div class="w3-section">
       <label>Phone Number</label>
-      <input class="w3-input w3-border w3-hover-border-black" style="width:100%;" name="Subject" required>
+      <input class="w3-input w3-border w3-hover-border-black" style="width:100%;" type="tel" name="Subject" required>
     </div>
      <div class="w3-section">
       <label>City Reside</label>
@@ -72,15 +61,27 @@
     </div>
     <div class="w3-section">
       <label>Message</label>
-      <input class="w3-input w3-border w3-hover-border-black" style="width:100%;" name="Message" required>
+      <textarea class="w3-input w3-border w3-hover-border-black" style="width:100%;" type="text" rows="4" name="Message" required></textarea>
     </div>
     <br>
-    <button type="submit" class="w3-button w3-block w3-blue-grey">Send</button>
+    <button type="submit" class="w3-button w3-block" style="background-color:black; color:white;">Send</button>
   </form>
   <br>
   <br>
 </div>
 
+<!--Start Nav Hamburger Menu-->
+<script>
+  function myFunction() {
+      var x = document.getElementById("myTopnav");
+      if (x.className === "topnav") {
+          x.className += " responsive";
+      } else {
+          x.className = "topnav";
+      }
+  }
+  </script>
+  <!--End Nav Hamburger Menu-->
 
 <!-- Footer -->
 
