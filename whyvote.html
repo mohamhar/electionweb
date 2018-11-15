@@ -13,10 +13,10 @@
 <!-- Links (sit on top) -->
 <nav>
   <div class="topnav" id="myTopnav">
-    <a href="index.html">Home</a>
+    <a href="index.html" class="active">Home</a>
     <a href="about.html">About</a>
-    <a href="plans.html" class="active">Plans</a>
-    <a href="whyvote.html">Why Vote?</a>
+    <a href="plans.html">Plans</a>
+    <a href="whyvote.html" class="active">Why Vote?</a>
     <a href="volunteer.html">Volunteer</a>
     <a href="esindex.html">Para Español</a>
     <a href="javascript:void(0);" class="icon" onclick="myFunction()">
@@ -36,23 +36,32 @@
 
 
   <!-- Grid -->
-  <div class="w3-row-padding" id="plans">
-    <div class="w3-center w3-padding-64">
-      <span class="w3-xlarge underline title w3-padding-16">My Plans</span>
-    </div>
-      <div class="w3-card-4">
-      	<div class="w3-container"><br>
-		  <h2>Improve participation of parents and community at all schools.</h2>
-			<h2>Ensure all students feel safe and secure at all schools.</h2>
-			<h2>Increase the graduation rate of High School Students.</h2>
-			<h2>Implement transparency in every school board process.</h2>
-			<h2>Create fiscal accountability.</h2>
-			<h2>Televise all School Board Meetings to have an informed community.</h2><br>
-		</div>
+  <div class="w3-row w3-container" id="boxes">
+	<div class="w3-center w3-padding-64">
+	  <span class="w3-xlarge underline title w3-padding-16">Why Vote?</span>
 	</div>
-   </div>
+	<div class="w3-col l3 m6 custom-black w3-container w3-padding-16">
+	  <h3>Parent</h3>
+	  <p>As a parent you would like to know that your child is getting the best education possible.</p>
+	</div>
 
-   <!--Start Nav Hamburger Menu-->
+	<div class="w3-col l3 m6 custom-red w3-container w3-padding-16">
+	  <h3>Tax Payer</h3>
+	  <p>As a tax payer you want to make sure your hard earned money is going to the right places.</p>
+	</div>
+
+	<div class="w3-col l3 m6 custom-black w3-container w3-padding-16">
+	  <h3>College Student</h3>
+	  <p>You have a family member, sibling or loved ones who is still a student in New Brunswick schools in grade k - 12.</p>
+	</div>
+
+	<div class="w3-col l3 m6 custom-red w3-container w3-padding-16">
+	  <h3>Teacher</h3>
+	  <p>You are a teacher in New Brunswick and you trully care about the education of your students.</p>
+	</div>
+  </div>
+
+  <!--Start Nav Hamburger Menu-->
 <script>
   function myFunction() {
       var x = document.getElementById("myTopnav");

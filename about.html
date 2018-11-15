@@ -12,36 +12,25 @@
 
 <!-- Links (sit on top) -->
 <nav>
-<div class="w3-top">
-  <div class="w3-row w3-large w3-light-grey">
-    <div class="w3-col s2">
-      <a href="index.html" class="w3-button w3-block">Home</a>
-    </div>
-    <div class="w3-col s2">
-      <a href="about.html" class="w3-button w3-block">About</a>
-    </div>
-    <div class="w3-col s2">
-      <a href="plans.html" class="w3-button w3-block">Plans</a>
-    </div>
-    <div class="w3-col s2">
-	      <a href="events.html" class="w3-button w3-block">Events</a>
-    </div>
-    <div class="w3-col s2">
-      <a href="contact.html" class="w3-button w3-block">Contact</a>
-    </div>
-    <div class="w3-col s2">
-	      <a href="#" class="w3-button w3-block">Vote for Jerry Mercado</a>
-    </div>
+  <div class="topnav" id="myTopnav">
+    <a href="index.html">Home</a>
+    <a href="about.html" class="active">About</a>
+    <a href="plans.html">Plans</a>
+    <a href="whyvote.html">Why Vote?</a>
+    <a href="volunteer.html">Volunteer</a>
+    <a href="esindex.html">Para Español</a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+      <i class="fa fa-bars"></i>
+    </a>
   </div>
-</div>
-</nav>
+  </nav>
 
 <!-- Content -->
 <div class="w3-content" id="content" style="max-width:1100px;margin-top:80px;margin-bottom:80px">
 
   <div class="w3-panel" id="top">
     <h1><b>VOTE FOR JERRY B. MERCADO</b></h1>
-    <h4>New Brunswick Board of Ed. Candidate</h4>
+    <h4>New Brunswick Board of Education Candidate</h4>
   </div>
 
 
@@ -49,7 +38,7 @@
   <!-- Grid -->
     <div class="w3-row-padding" id="about">
       <div class="w3-center w3-padding-64">
-        <span class="w3-xlarge w3-bottombar w3-border-dark-grey w3-padding-16">Who I Am</span>
+        <span class="w3-xlarge underline title w3-padding-16">Who I Am</span>
       </div>
 
       <div class="w3-third w3-margin-bottom">
@@ -65,27 +54,31 @@
       <div class="w3-twothird w3-margin-bottom">
         <div class="w3-card-4">
           <div class="w3-container">
-            <h5>Jerry B. Mercado was the current President and Founder of New Brunswick Little League for 5 years. Coaching since 2006, he coached Baseball, Basketball, and Soccer. He played Little League as a child growing up in Newark and wanted to give his son and all the children in New Brunswick the same opportunity he had compete with other neighboring towns This level of completion can improve their baseball skills and make them feel a sense of accomplishment. He is also a father of three children all born in New Brunswick with one being hearing impaired. He has to be consistently advocating for his children to make sure they get the best education available to them. He now wishes to use his skills to advocate for all the children of New Brunswick. Two of them graduated from the New Brunswick Health Science Technology High School and one is currently a student. He graduated from Rutgers University with a degree in Industrial Engineering and a minor in Psychology. During his tenure at Rutgers University he was a student leader and organized activities and events for the Rutgers Community. One year he was awarded Hall President of the Year for one of his programs that brought the Rutgers Community including faculty and custodians together with music.</h5>
+            <h5>I  am the Founder and past President of New Brunswick Little League for 5 years. Coaching since 2006, I coached Baseball/Softball, Basketball, and Soccer. I played Little League as a child growing up in Newark and wanted to give my son and all the children in New Brunswick the same opportunity I had to compete with other neighboring towns. ​ I knew that this level of completion can improve New Brunswick Children's baseball skills and make them feel a sense of accomplishment in addition to assisting the Middle and High Schools get better players.  I am a proud father of three children all born in New Brunswick with one being hearing impaired. I  had to consistently advocate for them to make sure they got the best education available to them. I now wishes to use my skills to advocate for all the children of New Brunswick. Two of my children graduated from the New Brunswick Health Science Technology High School and one is currently a student. I graduated from Rutgers University with a degree in Industrial Engineering and a minor in Psychology. During my tenure at Rutgers University, I was a student leader and organized activities/events for the Rutgers Community. One year, I was awarded Hall President of the Year for one of my programs that brought the Rutgers Community together with music including faculty, students and custodians.</h5>
           	<br>
           </div>
         </div>
       </div>
   </div>
 
+  <!--Start Nav Hamburger Menu-->
+<script>
+  function myFunction() {
+      var x = document.getElementById("myTopnav");
+      if (x.className === "topnav") {
+          x.className += " responsive";
+      } else {
+          x.className = "topnav";
+      }
+  }
+  </script>
+  <!--End Nav Hamburger Menu-->
 
 <!-- Footer -->
 
-<footer class="w3-container w3-padding-32 w3-light-grey w3-center">
-  <h1>VOTE FOR JERRY B. MERCADO</h1>
+<footer class="w3-container w3-padding-10 w3-center">
   <a href="#" class="w3-button w3-black w3-margin"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
-  <div class="w3-xlarge w3-section">
-    <i class="fa fa-facebook-official w3-hover-opacity"></i>
-    <i class="fa fa-instagram w3-hover-opacity"></i>
-    <i class="fa fa-snapchat w3-hover-opacity"></i>
-    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
-    <i class="fa fa-twitter w3-hover-opacity"></i>
-    <i class="fa fa-linkedin w3-hover-opacity"></i>
-  </div>
+  <h3> Paid for by the Committee to Elect Jerry B. Mercado. </h3>
   <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
 </footer>
 
