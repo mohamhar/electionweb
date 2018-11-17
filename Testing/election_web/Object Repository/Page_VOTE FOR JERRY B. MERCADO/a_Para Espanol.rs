@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'Para Espanol')]</value>
+         <value>//a[contains(text(),'Para Español')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -51,7 +51,7 @@
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
-      <value>//a[contains(text(),'Para Espanol')]</value>
+      <value>//a[contains(text(),'Para Español')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
