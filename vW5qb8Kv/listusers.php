@@ -14,11 +14,13 @@ table, th, td {
 define("IN_CODE", 1);
 include ("dbconfig.php");
 
-$con = mysqli_connect($server, $username, $pswd, $dbname) or die("Connection fail");
-
-$query = "select id,name,email,password,walklist,calllist,district,authority from $dbname.$table";
-$result = mysqli_query($con, $query);
-echo "<table><tr>
+function printDB()
+{
+    include ("dbconfig.php");
+    $con = mysqli_connect($server, $username, $pswd, $dbname) or die("Connection fail");
+    $query = "select id,name,email,password,walklist,calllist,district,authority from $dbname.$table";
+    $result = mysqli_query($con, $query);
+    echo "<table><tr>
 <th>id</th>
 <th>name</th>
 <th>email</th>
@@ -28,8 +30,8 @@ echo "<table><tr>
 <th>district</th>
 <th>authority</th>
 </tr>";
-while ($row = mysqli_fetch_assoc($result)) {
-    echo "<tr>
+    while ($row = mysqli_fetch_assoc($result)) {
+        echo "<tr>
 <td>" . $row["id"] . "</td>
 <td>" . $row["name"] . "</td>
 <td>" . $row["email"] . "</td>
@@ -39,8 +41,11 @@ while ($row = mysqli_fetch_assoc($result)) {
 <td>" . $row["district"] . "</td>
 <td>" . $row["authority"] . "</td>
 </tr>";
+    }
+    echo "</table>";
+    mysqli_free_result($result);
+    mysqli_close($con);
 }
-echo "</table>";
-mysqli_close($con);
-mysqli_free_result($result);
+printDB();
+
 ?>
