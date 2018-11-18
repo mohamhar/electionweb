@@ -8,11 +8,11 @@
 	<a href="listusers.php"> List all users</a>
 	<br>
 	<form action="viewcall.php" method="post">
-		<br>District(call): <input type="number" name="username"required="required">
+		<br>District(call): <input type="number" min="1" max="5" name="callval" required="required">
 		<input type="submit" value="Submit">
 	</form>
 	<form action="viewwalk.php" method="post">
-		<br>District(walk): <input type="text" name="username"required="required"> 
+		<br>District(walk): <input type="text" name="walkval"required="required"> 
 		<input type="submit" value="Submit">
 	</form>
 	<br>
