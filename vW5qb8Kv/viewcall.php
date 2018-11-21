@@ -46,13 +46,13 @@ function printDB($dist)
 function vote($val)
 {
     if($val==NULL)
-        return "   ";
+        return "  ";
     elseif ($val==1)
         return "YES";
     elseif ($val==0)
         return "NO";
 }
 $con = mysqli_connect($server, $username, $pswd, $dbname) or die("Connection fail");
-$dist=$_POST["callval"];
+$dist=$_GET["callval"];
 printDB($dist);
 ?>
