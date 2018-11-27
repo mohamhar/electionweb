@@ -61,11 +61,12 @@ function printHTML($username,$password)
     }
     if ($authority!=0)
     {
-        echo "<a href='updatecall.php'> List all users</a>";
+        echo "<a href='updatecall.php'> Update call list</a>";
     
         if ($authority==5)
         {
-        echo "<br> Hi Jerry";
+        echo "<br>".getYes();
+        echo "<br>".getNo();
         }
     }
     else 
@@ -75,6 +76,50 @@ function printHTML($username,$password)
     mysqli_free_result($result);
     
     mysqli_close($con);
+}
+
+function getYes()
+{
+    include ("dbconfig.php");
+    $con = mysqli_connect($server, $serverlogin, $pswd, $dbname) or die("Connection fail");
+    $query = "select count(vote) as count from $dbname.$table2 where vote=1";
+    $result=mysqli_query($con,$query);
+    while($row=mysqli_fetch_assoc($result))
+    {
+        $yescount=$row['count'];
+    }
+    mysqli_free_result($result);
+    $query = "select count(vote) from $dbname.$table2 where vote=1";
+    $result=mysqli_query($con,$query);
+    while($row=mysqli_fetch_assoc($result))
+    {
+        $yescount+=$row['count'];
+    }
+    mysqli_free_result($result);
+    mysqli_close($con);
+    return "Current people voting yes: $yescount";
+}
+
+function getNo()
+{
+    include ("dbconfig.php");
+    $con = mysqli_connect($server, $serverlogin, $pswd, $dbname) or die("Connection fail");
+    $query = "select count(vote) as count from $dbname.$table2 where vote=0";
+    $result=mysqli_query($con,$query);
+    while($row=mysqli_fetch_assoc($result))
+    {
+        $nocount=$row['count'];
+    }
+    mysqli_free_result($result);
+    $query = "select count(vote) from $dbname.$table2 where vote=0";
+    $result=mysqli_query($con,$query);
+    while($row=mysqli_fetch_assoc($result))
+    {
+        $nocount+=$row['count'];
+    }
+    mysqli_free_result($result);
+    mysqli_close($con);
+    return "Current people voting yes: $yescount";
 }
 
 define("IN_CODE", 1);

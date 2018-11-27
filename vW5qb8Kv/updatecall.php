@@ -22,7 +22,6 @@ function printTable($dist)
     $con = mysqli_connect($server, $serverlogin, $pswd, $dbname) or die("Connection fail");
     $query = "select id_call,name,address,district,vote from $dbname.$table2 where district=$dist";
     $result = mysqli_query($con, $query);
-    echo $query;
     $i=0;
     echo "<table><tr>";
     echo "<th>id</th>";
