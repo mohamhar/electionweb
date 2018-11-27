@@ -80,20 +80,21 @@ function checkCookie($cookie_name)
 {
     if (! isset($_COOKIE[$cookie_name])) 
     {
-        return 0;
+        $district=0;
     }
     else 
     {
         include ("dbconfig.php");
         $username=$_COOKIE[$cookie_name];
         $con = mysqli_connect($server, $serverlogin, $pswd, $dbname) or die("Connection fail");
-        $query = "select district from $dbname.$table2 where email=$username";
+        $query = "select district from $dbname.$table where email='$username'";
         $result = mysqli_query($con, $query);
         while ($row = mysqli_fetch_assoc($result))
         {
-            return row['district'];
+            $district=$row['district'];
         }
     }
+    return $district;
 }
 
 
@@ -103,7 +104,7 @@ $dist=checkCookie($cookie_name);
 if($dist!=0)
     printTable($dist);
 else
-    echo "please <a href=\"index.html\">login</a>";
+    echo "<br>please <a href=\"index.html\">login</a>";
 
 ?>
 
