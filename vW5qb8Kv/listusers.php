@@ -17,7 +17,7 @@ include ("dbconfig.php");
 function printDB()
 {
     include ("dbconfig.php");
-    $con = mysqli_connect($server, $username, $pswd, $dbname) or die("Connection fail");
+    $con = mysqli_connect($server, $serverlogin, $pswd, $dbname) or die("Connection fail");
     $query = "select id,name,email,password,walklist,calllist,district,authority from $dbname.$table";
     $result = mysqli_query($con, $query);
     echo "<table><tr>

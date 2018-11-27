@@ -14,12 +14,12 @@ table, th, td {
 <?php
 define("IN_CODE", 1);
 include ("dbconfig.php");
-
+$cookie_name = "jerrymercadostaff";
 function printTable($dist)
 {
    
     include ("dbconfig.php");
-    $con = mysqli_connect($server, $username, $pswd, $dbname) or die("Connection fail");
+    $con = mysqli_connect($server, $serverlogin, $pswd, $dbname) or die("Connection fail");
     $query = "select id_call,name,address,district,vote from $dbname.$table2 where district=$dist";
     $result = mysqli_query($con, $query);
     echo $query;
@@ -45,7 +45,7 @@ function printTable($dist)
 function printDB($dist)
 {
     include ("dbconfig.php");
-    $con = mysqli_connect($server, $username, $pswd, $dbname) or die("Connection fail");
+    $con = mysqli_connect($server, $serverlogin, $pswd, $dbname) or die("Connection fail");
     $query = "select id_call,name,address,district,vote from $dbname.$table2 where district=$dist";
     $result = mysqli_query($con, $query);
     $i=0;
@@ -76,13 +76,35 @@ function vote($val,$i)
         return "NO";
 }
 
+function checkCookie($cookie_name)
+{
+    if (! isset($_COOKIE[$cookie_name])) 
+    {
+        return 0;
+    }
+    else 
+    {
+        include ("dbconfig.php");
+        $username=$_COOKIE[$cookie_name];
+        $con = mysqli_connect($server, $serverlogin, $pswd, $dbname) or die("Connection fail");
+        $query = "select district from $dbname.$table2 where email=$username";
+        $result = mysqli_query($con, $query);
+        while ($row = mysqli_fetch_assoc($result))
+        {
+            return row['district'];
+        }
+    }
+}
 
 
 
+$con = mysqli_connect($server, $serverlogin, $pswd, $dbname) or die("Connection fail");
+$dist=checkCookie($cookie_name);
+if($dist!=0)
+    printTable($dist);
+else
+    echo "please <a href=\"index.html\">login</a>";
 
-$con = mysqli_connect($server, $username, $pswd, $dbname) or die("Connection fail");
-$dist=$_GET["callval"];
-printTable($dist);
 ?>
 
 

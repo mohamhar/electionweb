@@ -1,6 +1,6 @@
 <?php
 include ("dbconfig.php");
-$con = mysqli_connect($server, $username, $pswd, $dbname) or die("Connection fail");
+$con = mysqli_connect($server, $serverlogin, $pswd, $dbname) or die("Connection fail");
 $size = count($_POST['id_call']);
 $i=0;
 while ($i < $size) 

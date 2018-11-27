@@ -1,6 +1,6 @@
 <?php
 $server="localhost";
-$username="seesselm_seessel";
+$serverlogin="seesselm_seessel";
 $pswd="Mattry01";
 $dbname="seesselm_ElectionTest";
 $table="volunteers";
