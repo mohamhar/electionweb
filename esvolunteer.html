@@ -49,7 +49,7 @@
 
   <h4 style="text-align:center;">Te pido como vecino a que me ayudes siendo voluntario. <br> ¡Por favor, ayúdame a representarte y a lo que te importa! <br> Dime tus ideas de como mejorar las escuelas de New Brunswick.</h4>
 
-  <form class="w3-container" action="action_page.php" target="_blank" method="post">
+  <form class="w3-container" action="/action_page.php" target="_blank">
     <div class="w3-section">
       <label>Nombre</label>
       <input class="w3-input w3-border w3-hover-border-black" style="width:100%;" type="text" name="Name" required>
@@ -60,25 +60,16 @@
     </div>
       <div class="w3-section">
       <label>Número de Teléfono</label>
- 
-      <input class="w3-input w3-border w3-hover-border-black" type="tel" value="Formato: 1234567890" pattern="[0-9]{10}" style="width:100%;" name="Phone" type="number" required>
-    </div>
-     <div class="w3-section">
-      <label>Ciudad de Residencia</label>
-      <input class="w3-input w3-border w3-hover-border-black" style="width:100%;" name="City" required>
-
       <input class="w3-input w3-border w3-hover-border-black" style="width:100%;" type="number" required>
     </div>
      <div class="w3-section">
       <label>Ciudad de Residencia</label>
       <input class="w3-input w3-border w3-hover-border-black" style="width:100%;" type = "text" name="Subject" required>
-
     </div>
     <div class="w3-section">
       <label>Mensaje</label>
       <textarea class="w3-input w3-border w3-hover-border-black" style="width:100%;" rows="4" name="Message" required></textarea>
     </div>
-    <input type='hidden' name='language' value='es'/></td>
     <br>
     <button type="submit" class="w3-button w3-block" style="background-color:black; color:white;">Enviar</button>
   </form>

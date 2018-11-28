@@ -49,7 +49,7 @@
 
   <h4 style="text-align:center;">I ask for your help to volunteer as your neighbor. <br> Please help me represent you and what you stand for! <br> Let me know your ideas on how we can improve the New Brunswick School system.</h4>
 
-  <form class="w3-container" name="volunteer" action="action_page.php" target="_blank" method="post">
+  <form class="w3-container" action="/action_page.php" target="_blank">
     <div class="w3-section">
       <label>Name</label>
       <input class="w3-input w3-border w3-hover-border-black" style="width:100%;" type="text" name="Name" required>
@@ -60,21 +60,16 @@
     </div>
     <div class="w3-section">
       <label>Phone Number</label>
-
-      <input class="w3-input w3-border w3-hover-border-black" type="tel" value="Format: 1234567890" pattern="[0-9]{10}" style="width:100%;" name="Phone" required>
-
       <input class="w3-input w3-border w3-hover-border-black" style="width:100%;" type="number" name="Subject" required>
-
     </div>
      <div class="w3-section">
       <label>City Reside</label>
-      <input class="w3-input w3-border w3-hover-border-black" style="width:100%;" name="City" required>
+      <input class="w3-input w3-border w3-hover-border-black" style="width:100%;" name="Subject" required>
     </div>
     <div class="w3-section">
       <label>Message</label>
       <textarea class="w3-input w3-border w3-hover-border-black" style="width:100%;" type="text" rows="4" name="Message" required></textarea>
     </div>
-    <input type='hidden' name='language' value='en'/></td>
     <br>
     <button type="submit" class="w3-button w3-block" style="background-color:black; color:white;">Send</button>
   </form>
