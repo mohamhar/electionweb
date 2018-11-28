@@ -9,7 +9,7 @@ $message = mysqli_real_escape_string($con, $_POST["Message"]);
 $lang= mysqli_real_escape_string($con, $_POST["language"]);
 
 $query="insert into $dbname.$table (name,email,phone,city,message,language) 
-values ('$name','$email',$number,'$city','$message','$lang')";
+values ('$name','$email','$number','$city','$message','$lang')";
 ##echo $query;
 mysqli_query($con,$query)
 

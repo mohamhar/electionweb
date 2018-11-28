@@ -8,9 +8,9 @@ function printTable($dist)
     include ("dbconfig.php");
     $con = mysqli_connect($server, $serverlogin, $pswd, $dbname) or die("Connection fail");
     $query = "select id_req, name, email, phone, city, language, allow, message from $dbname.$table4 where allow is NULL";
-    echo $query;
     $result = mysqli_query($con, $query);
     $i=0;
+    echo "<form name='update' method='post' action='dovolunteerupdate.php'>\n";
     while ($row = mysqli_fetch_assoc($result))
     {
         echo "<table><tr>";
@@ -22,10 +22,10 @@ function printTable($dist)
         echo "<th>language</th>";
         echo "<th>allow?</th>";
         echo "</tr>";
-        echo "<form name='update' method='post' action='doupdatecall.php'>\n";
+        
         echo '<tr>';
         echo '<tr>';
-        echo "<td>{$row['id_req']}<input type='hidden' name='id_call[$i]' value='{$row['id_call']}'/></td>";
+        echo "<td>{$row['id_req']}<input type='hidden' name='id_req[$i]' value='{$row['id_req']}'/></td>";
         echo "<td>{$row['name']}</td>";
         echo "<td>{$row['email']}</td>";
         echo "<td>{$row['phone']}</td>";
@@ -33,16 +33,14 @@ function printTable($dist)
         echo "<td>{$row['language']}</td>";
         echo "<td>".vote($row['allow'],$i)."</td>";
         echo "</tr>";
-        echo "<tr>";
+        echo '</table>';
         echo "<td>{$row['message']}</td>";
-        echo "</tr>";
+        echo "<br>";
         $i++;
     }
-    echo '<tr>';
-    echo "<td><input type='submit' value='submit' /></td>";
-    echo '</tr>';
+    
+    echo "<br><br><td><input type='submit' value='submit' /></td>";
     echo "</form>";
-    echo '</table>';
     
 }
 
@@ -71,8 +69,8 @@ function printDB($dist)
 function vote($val,$i)
 {
     if($val==NULL)
-        return "<input type='radio' name='voteval[$i]' value='2'> YES<br>
-         <input type='radio' name='voteval[$i]' value='1'> NO<br>";
+        return "<input type='radio' name='volval[$i]' value='2'> YES<br>
+         <input type='radio' name='volval[$i]' value='1'> NO<br>";
         #return "    ";
         elseif ($val==1)
         return "YES";
