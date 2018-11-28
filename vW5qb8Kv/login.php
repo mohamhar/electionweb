@@ -65,8 +65,9 @@ function printHTML($username,$password)
     
         if ($authority==5)
         {
-        echo "<br>".getYes();
-        echo "<br>".getNo();
+            echo "<br><a href='viewvolunteers.php'> See new volunteer requests</a>";
+            echo "<br>".getYes();
+            echo "<br>".getNo();
         }
     }
     else 
