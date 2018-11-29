@@ -49,7 +49,7 @@
 
   <h4 style="text-align:center;">I ask for your help to volunteer as your neighbor. <br> Please help me represent you and what you stand for! <br> Let me know your ideas on how we can improve the New Brunswick School system.</h4>
 
-  <form class="w3-container" action="action_page.php" target="_blank">
+  <form class="w3-container" action="action_page.php" target="_blank" method="post">
     <div class="w3-section">
       <label>Name</label>
       <input class="w3-input w3-border w3-hover-border-black" style="width:100%;" type="text" name="Name" required>
@@ -70,6 +70,7 @@
       <label>Message</label>
       <textarea class="w3-input w3-border w3-hover-border-black" style="width:100%;" type="text" rows="4" name="Message" required></textarea>
     </div>
+    <input type='hidden' name='language' value='en'/></td>
     <br>
     <button type="submit" class="w3-button w3-block" style="background-color:black; color:white;">Send</button>
   </form>
