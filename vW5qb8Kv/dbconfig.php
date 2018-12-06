@@ -1,7 +1,7 @@
 <?php
 $server="localhost";
 $serverlogin="seesselm_seessel";
-$pswd="Mattry01";
+$pswd="";
 $dbname="seesselm_ElectionTest";
 $table="volunteers";
 $table2="listcall";
