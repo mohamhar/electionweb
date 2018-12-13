@@ -15,23 +15,28 @@ table, th, td {
 define("IN_CODE", 1);
 include ("dbconfig.php");
 $cookie_name = "jerrymercadostaff";
-function printTable($dist)
+function printTable($dist,$ward)
 {
    
     include ("dbconfig.php");
     $con = mysqli_connect($server, $serverlogin, $pswd, $dbname) or die("Connection fail");
-    $query = "select id_call,name,address,district,vote from $dbname.$table2 where district=$dist";
+    $query = "select id_elec,lastname,firstname,phone,street_num,suffix_a,street_name,unit,party,voting_jerry from $dbname.$table5 where district=$dist and ward=$ward and phone!=''";
     $result = mysqli_query($con, $query);
     $i=0;
     echo "<table><tr>";
     echo "<th>id</th>";
-    echo "<th>name</th>";
-    echo "<th>address</th>";
-    echo "<th>district</th>";
-    echo "<th>vote</th>";
+    echo "<th>lastname</th>";
+    echo "<th>firstname</th>";
+    echo "<th>phone</th>";
+    echo "<th>street_num</th>";
+    echo "<th>suffix_a</th>";
+    echo "<th>street_name</th>";
+    echo "<th>unit</th>";
+    echo "<th>party</th>";
+    echo "<th>voting_jerry</th>";
     echo "</tr>";
-    echo "<form name='update' method='post' action='doupdatecall.php'>\n";  
-    printDB($dist);
+    echo "<form name='update' method='post' action='doupdate.php'>\n";  
+    printDB($dist,$ward);
     
     echo '<tr>';
     echo "<td><input type='submit' value='submit' /></td>";
@@ -41,26 +46,54 @@ function printTable($dist)
     
 }
 
-function printDB($dist)
+function printDB($dist,$ward)
 {
     include ("dbconfig.php");
     $con = mysqli_connect($server, $serverlogin, $pswd, $dbname) or die("Connection fail");
-    $query = "select id_call,name,address,district,vote from $dbname.$table2 where district=$dist";
+    $query = "select id_elec,lastname,firstname,phone,street_num,suffix_a,street_name,unit,party,voting_jerry from $dbname.$table5 where district=$dist and ward=$ward and phone!=''";
     $result = mysqli_query($con, $query);
     $i=0;
     while ($row = mysqli_fetch_assoc($result))
     {
+        if($i%2==1)
+            $cell="#f5f5f0";
+        else 
+            $cell="#ffffff";
+        
         echo '<tr>';
         echo '<tr>';
-        echo "<td>{$row['id_call']}<input type='hidden' name='id_call[$i]' value='{$row['id_call']}'/></td>";
-        echo "<td>{$row['name']}</td>";
-        echo "<td>{$row['address']}</td>";
-        echo "<td>{$row['district']}</td>";
-        echo "<td>".vote($row['vote'],$i)."</td>";
+        echo "<td bgcolor=$cell>{$row['id_elec']}<input type='hidden' name='id_elec[$i]' value='{$row['id_elec']}'/></td>";
+        echo "<td bgcolor=$cell>{$row['lastname']}</td>";
+        echo "<td bgcolor=$cell>{$row['firstname']}</td>";
+        echo "<td bgcolor=$cell>{$row['phone']}</td>";
+        echo "<td bgcolor=$cell>{$row['street_num']}</td>";
+        echo "<td bgcolor=$cell>{$row['suffix_a']}</td>";
+        echo "<td bgcolor=$cell>{$row['street_name']}</td>";
+        echo "<td bgcolor=$cell>{$row['unit']}</td>";
+        echo party($row['party']);
+        echo "<td bgcolor=$cell>".vote($row['voting_jerry'],$i)."</td>";
         echo "</tr>";
         ++$i;
     }
     
+}
+
+function party($party)
+{
+    $color;
+    if($party=="REP")
+        $color="#ff9999";
+    elseif($party=="DEM")
+        $color="#9999ff";
+    elseif($party=="GRE")
+        $color="#b3ffb3";
+    elseif($party=="LIB")
+        $color="#ffff99";
+    elseif($party=="RFP")
+        $color="#ff99ff";
+    else
+        $color="#ffffff";
+    return "<td bgcolor=$color>$party</td>";
 }
 
 function vote($val,$i)
@@ -75,7 +108,7 @@ function vote($val,$i)
         return "NO";
 }
 
-function checkCookie($cookie_name)
+function checkCookied($cookie_name)
 {
     if (! isset($_COOKIE[$cookie_name])) 
     {
@@ -96,12 +129,34 @@ function checkCookie($cookie_name)
     return $district;
 }
 
+function checkCookiew($cookie_name)
+{
+    if (! isset($_COOKIE[$cookie_name]))
+    {
+        $ward=0;
+    }
+    else
+    {
+        include ("dbconfig.php");
+        $username=$_COOKIE[$cookie_name];
+        $con = mysqli_connect($server, $serverlogin, $pswd, $dbname) or die("Connection fail");
+        $query = "select ward from $dbname.$table where email='$username'";
+        $result = mysqli_query($con, $query);
+        while ($row = mysqli_fetch_assoc($result))
+        {
+            $ward=$row['ward'];
+        }
+    }
+    return $ward;
+}
+
 
 
 $con = mysqli_connect($server, $serverlogin, $pswd, $dbname) or die("Connection fail");
-$dist=checkCookie($cookie_name);
+$dist=checkCookied($cookie_name);
+$ward=checkCookiew($cookie_name);
 if($dist!=0)
-    printTable($dist);
+    printTable($dist,$ward);
 else
     echo "<br>please <a href=\"index.html\">login</a>";
 

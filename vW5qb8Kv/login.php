@@ -61,11 +61,17 @@ function printHTML($username,$password)
     }
     if ($authority!=0)
     {
-        echo "<a href='updatecall.php'> Update call list</a>";
-    
-        if ($authority==5)
+        if($authority!=5)
+        {
+            echo "<a href='updatecall.php'> Update call list</a>";
+            echo "<br>";
+            echo "<a href='updatewalk.php'> Update walk list</a>";
+        }
+        elseif ($authority==5)
         {
             echo "<br><a href='viewvolunteers.php'> See new volunteer requests</a>";
+            echo "<br><a href='editvolunteers.php'> edit volunteers</a>";
+            echo "<br><a href='viewdb.php'> view master list</a>";
             echo "<br>".getYes();
             echo "<br>".getNo();
         }
@@ -83,14 +89,14 @@ function getYes()
 {
     include ("dbconfig.php");
     $con = mysqli_connect($server, $serverlogin, $pswd, $dbname) or die("Connection fail");
-    $query = "select count(vote) as count from $dbname.$table2 where vote=1";
+    $query = "select count(voting_jerry) as count from $dbname.$table5 where voting_jerry=1";
     $result=mysqli_query($con,$query);
     while($row=mysqli_fetch_assoc($result))
     {
         $yescount=$row['count'];
     }
     mysqli_free_result($result);
-    $query = "select count(vote) from $dbname.$table2 where vote=1";
+    $query = "select count(voting_jerry) from $dbname.$table5 where voting_jerry=1";
     $result=mysqli_query($con,$query);
     while($row=mysqli_fetch_assoc($result))
     {
@@ -105,14 +111,14 @@ function getNo()
 {
     include ("dbconfig.php");
     $con = mysqli_connect($server, $serverlogin, $pswd, $dbname) or die("Connection fail");
-    $query = "select count(vote) as count from $dbname.$table2 where vote=0";
+    $query = "select count(voting_jerry) as count from $dbname.$table5 where voting_jerry=0";
     $result=mysqli_query($con,$query);
     while($row=mysqli_fetch_assoc($result))
     {
         $nocount=$row['count'];
     }
     mysqli_free_result($result);
-    $query = "select count(vote) from $dbname.$table2 where vote=0";
+    $query = "select count(voting_jerry) from $dbname.$table5 where voting_jerry=0";
     $result=mysqli_query($con,$query);
     while($row=mysqli_fetch_assoc($result))
     {
@@ -120,7 +126,7 @@ function getNo()
     }
     mysqli_free_result($result);
     mysqli_close($con);
-    return "Current people voting yes: $yescount";
+    return "Current people voting no: $nocount";
 }
 
 define("IN_CODE", 1);
@@ -145,7 +151,9 @@ else
     if ($status)
         printHTML($username, $password);
     else
-    {}
+    {
+        echo "Error";
+    }
        ## echo "<br>User exists but password is incorrect\n";
 }
 mysqli_close($con);
