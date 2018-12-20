@@ -1,7 +1,7 @@
 <?php
 $server="localhost";
-$serverlogin="seesselm_seessel";
-$pswd="Mattry01";
-$dbname="seesselm_ElectionTest";
+$serverlogin="dbPHP";
+$pswd="dHtGStaUBZaCdqYnJcYPnTpb9Cc77yPe";
+$dbname="electionweb";
 $table=requests
 ?>

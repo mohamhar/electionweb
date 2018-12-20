@@ -1,0 +1,1026 @@
+[29-Nov-2018 02:44:05 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[29-Nov-2018 02:44:05 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[29-Nov-2018 02:44:05 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 97
+[29-Nov-2018 02:44:05 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 119
+[29-Nov-2018 02:44:05 UTC] PHP Notice:  Undefined variable: yescount in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 123
+[29-Nov-2018 02:44:10 UTC] PHP Notice:  Undefined variable: volval in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 36
+[29-Nov-2018 02:48:44 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[29-Nov-2018 02:48:44 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[29-Nov-2018 02:48:44 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 97
+[29-Nov-2018 02:48:44 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 119
+[29-Nov-2018 02:48:44 UTC] PHP Notice:  Undefined variable: yescount in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 123
+[29-Nov-2018 02:48:50 UTC] PHP Notice:  Undefined variable: voting in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 12
+[29-Nov-2018 03:04:36 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[29-Nov-2018 03:04:36 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[29-Nov-2018 03:04:36 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 97
+[29-Nov-2018 03:04:36 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 119
+[29-Nov-2018 03:04:36 UTC] PHP Notice:  Undefined variable: yescount in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 123
+[29-Nov-2018 03:04:46 UTC] PHP Notice:  Undefined variable: voting in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 12
+[29-Nov-2018 03:05:53 UTC] PHP Notice:  Undefined variable: voting in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 12
+[29-Nov-2018 03:08:46 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[29-Nov-2018 03:08:46 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[29-Nov-2018 03:08:46 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 97
+[29-Nov-2018 03:08:46 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 119
+[29-Nov-2018 03:08:46 UTC] PHP Notice:  Undefined variable: yescount in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 123
+[29-Nov-2018 03:08:46 UTC] PHP Notice:  Undefined variable: voting in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 12
+[29-Nov-2018 03:23:09 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[29-Nov-2018 03:23:09 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[29-Nov-2018 03:23:09 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 97
+[29-Nov-2018 03:23:09 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 119
+[29-Nov-2018 03:23:09 UTC] PHP Notice:  Undefined variable: yescount in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 123
+[29-Nov-2018 03:23:18 UTC] PHP Notice:  Undefined variable: voting in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 12
+[29-Nov-2018 03:35:48 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[29-Nov-2018 03:35:48 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[29-Nov-2018 03:35:48 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 97
+[29-Nov-2018 03:35:48 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 119
+[29-Nov-2018 03:35:48 UTC] PHP Notice:  Undefined variable: yescount in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 123
+[29-Nov-2018 03:41:23 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[29-Nov-2018 03:41:23 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[29-Nov-2018 03:41:23 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 97
+[29-Nov-2018 03:41:23 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 119
+[29-Nov-2018 03:41:23 UTC] PHP Notice:  Undefined variable: yescount in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 123
+[29-Nov-2018 03:41:24 UTC] PHP Notice:  Undefined variable: voting in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 12
+[29-Nov-2018 03:54:25 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[29-Nov-2018 03:54:25 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[29-Nov-2018 03:54:25 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 97
+[29-Nov-2018 03:54:25 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 119
+[29-Nov-2018 03:54:25 UTC] PHP Notice:  Undefined variable: yescount in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 123
+[29-Nov-2018 03:54:27 UTC] PHP Notice:  Undefined variable: voting in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 12
+[06-Dec-2018 22:43:49 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 91
+[06-Dec-2018 22:43:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 52
+[06-Dec-2018 22:43:49 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 84
+[06-Dec-2018 22:45:34 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 92
+[06-Dec-2018 22:45:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 53
+[06-Dec-2018 22:45:34 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 85
+[06-Dec-2018 22:48:18 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 92
+[06-Dec-2018 22:53:32 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 92
+[06-Dec-2018 22:53:50 UTC] PHP Notice:  Undefined index: username in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 90
+[06-Dec-2018 22:53:50 UTC] PHP Notice:  Undefined index: password in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 91
+[06-Dec-2018 22:53:50 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 92
+[06-Dec-2018 22:55:04 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 92
+[06-Dec-2018 22:55:33 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 92
+[06-Dec-2018 22:55:37 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 92
+[06-Dec-2018 22:56:18 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 92
+[06-Dec-2018 23:03:16 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 92
+[06-Dec-2018 23:03:20 UTC] PHP Notice:  Undefined index: username in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 90
+[06-Dec-2018 23:03:20 UTC] PHP Notice:  Undefined index: password in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 91
+[06-Dec-2018 23:03:20 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 92
+[06-Dec-2018 23:05:15 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 92
+[06-Dec-2018 23:05:19 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 92
+[06-Dec-2018 23:06:39 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[06-Dec-2018 23:07:35 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[06-Dec-2018 23:07:35 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[06-Dec-2018 23:07:35 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 97
+[06-Dec-2018 23:07:35 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 119
+[06-Dec-2018 23:07:35 UTC] PHP Notice:  Undefined variable: yescount in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 123
+[07-Dec-2018 04:02:53 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 92
+[09-Dec-2018 01:20:00 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 92
+[11-Dec-2018 19:14:57 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 92
+[12-Dec-2018 15:15:34 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[12-Dec-2018 15:16:40 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[12-Dec-2018 15:19:00 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[12-Dec-2018 15:19:41 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[12-Dec-2018 20:08:00 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 92
+[12-Dec-2018 20:08:00 UTC] PHP Warning:  Use of undefined constant test - assumed 'test' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 94
+[12-Dec-2018 20:08:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 53
+[12-Dec-2018 20:08:00 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 85
+[12-Dec-2018 20:09:46 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 92
+[12-Dec-2018 20:09:46 UTC] PHP Warning:  Use of undefined constant test - assumed 'test' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 94
+[12-Dec-2018 20:10:16 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 92
+[12-Dec-2018 20:10:16 UTC] PHP Warning:  Use of undefined constant test - assumed 'test' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 94
+[12-Dec-2018 20:11:13 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 92
+[12-Dec-2018 20:11:13 UTC] PHP Warning:  Use of undefined constant test - assumed 'test' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 94
+[12-Dec-2018 20:11:43 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 91
+[12-Dec-2018 20:12:33 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 91
+[12-Dec-2018 20:12:33 UTC] PHP Warning:  Use of undefined constant test - assumed 'test' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 93
+[12-Dec-2018 20:29:34 UTC] PHP Notice:  Undefined index: username in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 89
+[12-Dec-2018 20:29:34 UTC] PHP Notice:  Undefined index: password in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 90
+[12-Dec-2018 20:29:34 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 91
+[12-Dec-2018 20:29:34 UTC] PHP Warning:  Use of undefined constant test - assumed 'test' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 93
+[12-Dec-2018 22:49:44 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 91
+[12-Dec-2018 22:49:44 UTC] PHP Warning:  Use of undefined constant test - assumed 'test' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 93
+[12-Dec-2018 22:57:38 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 91
+[12-Dec-2018 23:37:25 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 103
+[12-Dec-2018 23:37:25 UTC] PHP Warning:  Use of undefined constant test - assumed 'test' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 105
+[12-Dec-2018 23:43:46 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 109
+[12-Dec-2018 23:45:50 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 115
+[12-Dec-2018 23:46:54 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 115
+[12-Dec-2018 23:46:54 UTC] PHP Warning:  Use of undefined constant test - assumed 'test' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 117
+[12-Dec-2018 23:49:12 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 115
+[12-Dec-2018 23:49:12 UTC] PHP Warning:  Use of undefined constant test - assumed 'test' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 117
+[12-Dec-2018 23:49:21 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 115
+[12-Dec-2018 23:49:21 UTC] PHP Warning:  Use of undefined constant test - assumed 'test' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 117
+[13-Dec-2018 00:00:51 UTC] PHP Notice:  Undefined index: username in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 113
+[13-Dec-2018 00:00:51 UTC] PHP Notice:  Undefined index: password in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 114
+[13-Dec-2018 00:00:51 UTC] PHP Warning:  Use of undefined constant Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd - assumed 'Dzs0oae6LPEOOcAsjoXkMgkiBCMkeLYd' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 115
+[13-Dec-2018 00:00:51 UTC] PHP Warning:  Use of undefined constant test - assumed 'test' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/testdblogin.php on line 117
+[13-Dec-2018 00:01:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/listusers.php on line 33
+[13-Dec-2018 00:01:05 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/listusers.php on line 46
+[13-Dec-2018 02:51:53 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 02:51:53 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 02:51:53 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[13-Dec-2018 02:51:53 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[13-Dec-2018 02:52:15 UTC] PHP Notice:  Undefined variable: voting in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/editvol.php on line 17
+[13-Dec-2018 02:53:05 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 02:53:05 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 02:54:28 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 02:54:28 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 02:54:28 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[13-Dec-2018 02:54:28 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[13-Dec-2018 02:54:43 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 02:54:43 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 02:55:05 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 02:55:12 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 03:08:26 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 03:08:26 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 03:08:26 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[13-Dec-2018 03:08:26 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[13-Dec-2018 03:08:50 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 03:08:50 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 03:08:50 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[13-Dec-2018 03:08:50 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[13-Dec-2018 03:09:55 UTC] PHP Notice:  Undefined variable: voting in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/editvol.php on line 17
+[13-Dec-2018 03:10:22 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 03:10:22 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 15:18:31 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 15:18:31 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 15:18:31 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[13-Dec-2018 15:18:31 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[13-Dec-2018 17:22:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/listusers.php on line 33
+[13-Dec-2018 17:22:15 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/listusers.php on line 46
+[13-Dec-2018 17:22:37 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 17:22:37 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 17:22:37 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[13-Dec-2018 17:22:37 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[13-Dec-2018 17:22:45 UTC] PHP Notice:  Undefined variable: voting in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 12
+[13-Dec-2018 17:22:45 UTC] PHP Notice:  Undefined variable: volval in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 24
+[13-Dec-2018 17:26:36 UTC] PHP Notice:  Undefined variable: voting in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 12
+[13-Dec-2018 17:26:36 UTC] PHP Notice:  Undefined variable: volval in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 24
+[13-Dec-2018 17:27:05 UTC] PHP Notice:  Undefined variable: voting in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 12
+[13-Dec-2018 17:27:05 UTC] PHP Notice:  Undefined variable: volval in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 24
+[13-Dec-2018 17:27:16 UTC] PHP Notice:  Undefined variable: volval in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 36
+[13-Dec-2018 17:27:20 UTC] PHP Notice:  Undefined variable: voting in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 12
+[13-Dec-2018 17:27:20 UTC] PHP Notice:  Undefined variable: volval in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 24
+[13-Dec-2018 17:29:36 UTC] PHP Notice:  Undefined variable: voting in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 12
+[13-Dec-2018 17:29:36 UTC] PHP Notice:  Undefined variable: volval in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 24
+[13-Dec-2018 17:30:19 UTC] PHP Notice:  Undefined variable: volval in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 24
+[13-Dec-2018 17:31:17 UTC] PHP Notice:  Undefined variable: vol in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 10
+[13-Dec-2018 17:31:17 UTC] PHP Notice:  Undefined variable: vol in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 33
+[13-Dec-2018 17:32:02 UTC] PHP Notice:  Undefined variable: vol in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 10
+[13-Dec-2018 17:32:02 UTC] PHP Notice:  Undefined variable: vol in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 33
+[13-Dec-2018 17:32:07 UTC] PHP Notice:  Undefined variable: vol in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 10
+[13-Dec-2018 17:32:07 UTC] PHP Notice:  Undefined variable: vol in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 33
+[13-Dec-2018 17:32:30 UTC] PHP Notice:  Undefined variable: vol in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 10
+[13-Dec-2018 17:32:30 UTC] PHP Notice:  Undefined variable: vol in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 34
+[13-Dec-2018 17:32:59 UTC] PHP Notice:  Undefined variable: vol in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 10
+[13-Dec-2018 17:32:59 UTC] PHP Notice:  Undefined variable: vol in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 34
+[13-Dec-2018 17:33:29 UTC] PHP Notice:  Undefined variable: vol in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 10
+[13-Dec-2018 17:33:29 UTC] PHP Notice:  Undefined variable: vol in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 35
+[13-Dec-2018 17:33:40 UTC] PHP Notice:  Undefined variable: vol in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 10
+[13-Dec-2018 17:33:40 UTC] PHP Notice:  Undefined variable: vol in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/dovolunteerupdate.php on line 36
+[13-Dec-2018 17:34:48 UTC] PHP Notice:  Undefined index: username in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 137
+[13-Dec-2018 17:34:48 UTC] PHP Notice:  Undefined index: password in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 138
+[13-Dec-2018 17:34:54 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 17:34:54 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 17:34:54 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[13-Dec-2018 17:34:54 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[13-Dec-2018 17:56:01 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 17:56:01 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 17:56:01 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[13-Dec-2018 17:56:01 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[13-Dec-2018 17:56:47 UTC] PHP Notice:  Undefined variable: voting in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/editvol.php on line 17
+[13-Dec-2018 17:57:46 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 17:57:46 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 17:58:47 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 17:58:47 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 17:58:47 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[13-Dec-2018 17:58:47 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[13-Dec-2018 18:07:41 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 18:07:41 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[13-Dec-2018 18:07:41 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[13-Dec-2018 18:07:41 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[13-Dec-2018 18:07:51 UTC] PHP Notice:  Undefined variable: voting in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/editvol.php on line 17
+[13-Dec-2018 18:11:14 UTC] PHP Notice:  Undefined variable: voting in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/editvol.php on line 17
+[13-Dec-2018 18:15:50 UTC] PHP Notice:  Undefined variable: voting in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/editvol.php on line 19
+[13-Dec-2018 18:15:50 UTC] PHP Notice:  Undefined variable: voting in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/editvol.php on line 19
+[19-Dec-2018 17:44:11 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 17:44:11 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 17:45:31 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 17:45:31 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 17:45:31 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[19-Dec-2018 17:45:31 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[19-Dec-2018 17:51:47 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 17:51:47 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 17:51:47 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[19-Dec-2018 17:51:47 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[19-Dec-2018 17:51:47 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 17:51:47 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 17:51:47 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[19-Dec-2018 17:51:47 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[19-Dec-2018 17:52:57 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 17:52:57 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 17:52:57 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[19-Dec-2018 17:52:57 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[19-Dec-2018 17:56:25 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 17:56:25 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 17:56:25 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[19-Dec-2018 17:56:25 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[19-Dec-2018 17:56:35 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 17:56:35 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 17:57:59 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 17:57:59 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 7 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 8 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 9 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 10 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 11 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 12 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 13 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 14 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 15 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 16 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 17 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 18 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 19 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 20 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 21 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 22 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 23 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 24 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 25 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 26 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 27 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 28 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 29 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 30 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 31 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 32 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 33 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 34 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 35 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 36 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 37 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 38 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 39 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 40 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 41 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 42 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 43 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 44 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 45 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 46 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 47 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 48 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 49 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 50 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 51 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 52 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 53 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 54 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 55 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 56 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 57 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 58 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 59 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 60 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 61 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 62 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 63 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 64 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 65 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 66 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 67 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 68 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 69 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 70 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 71 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 72 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 73 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 74 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 75 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 76 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 77 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 78 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 79 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 80 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 81 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 82 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 83 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 84 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 85 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 86 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 87 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 88 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 89 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 90 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 91 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 92 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 93 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 94 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 95 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 96 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 97 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 98 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 99 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 100 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 101 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 102 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 103 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 104 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 105 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 106 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 107 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 108 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 109 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 110 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 111 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 112 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 113 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 114 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 115 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 116 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 117 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 118 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 119 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 120 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 121 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 122 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 123 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 124 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 125 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 126 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 127 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 128 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 129 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 130 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 131 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 132 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 133 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 134 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 135 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 136 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 137 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 138 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 139 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 140 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 141 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 142 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 143 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 144 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 145 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 146 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 147 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 148 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 149 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 150 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 151 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 152 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 153 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 154 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 155 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 156 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 157 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 158 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 159 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 160 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 161 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 162 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 163 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 164 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 165 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 166 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 167 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 168 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 169 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 170 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 171 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 172 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 173 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 174 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 175 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 176 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 177 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 178 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 179 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 180 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 181 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 182 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 183 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 184 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 185 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 186 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 187 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 188 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 189 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 190 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 191 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 192 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 193 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 194 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 195 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 196 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 197 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 198 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 199 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 200 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 201 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 202 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 203 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 204 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 205 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 206 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 207 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 208 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 209 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 210 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 211 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 212 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 213 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 214 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 215 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 216 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 217 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 218 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 219 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 220 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 221 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 222 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 223 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 224 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 225 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 226 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 227 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 228 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 229 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 230 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 231 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 232 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 233 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 234 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 235 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 236 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 237 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 238 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 239 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 240 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 241 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 242 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 243 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 244 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 245 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 246 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 247 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 248 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 249 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 250 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 251 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 252 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 253 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 254 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 255 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 256 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 257 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 258 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 259 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 260 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 261 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 262 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 263 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 264 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 265 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 266 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 267 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 268 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 269 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 270 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 271 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 272 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 273 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 274 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 275 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 276 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 277 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 278 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 279 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 280 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 281 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 282 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 283 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 284 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 285 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 286 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 287 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 288 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 289 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 290 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 291 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 292 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 293 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 294 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 295 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 296 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 297 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 298 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 299 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 300 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 301 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 302 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 303 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 304 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 305 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 306 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 307 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 308 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 309 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 310 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 311 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 312 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 313 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 314 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 315 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 316 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 317 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 318 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 319 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 320 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 321 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 322 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 323 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 324 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 325 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 326 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 327 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 328 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 329 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 330 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 331 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 332 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 333 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 334 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 335 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 336 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 337 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 338 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 339 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 340 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 341 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 342 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 343 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 344 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 345 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 346 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 347 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 348 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 349 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 350 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 351 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 352 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 353 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 354 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 355 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 356 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 357 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 358 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 359 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 360 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 361 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 362 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 363 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 364 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 365 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 366 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 367 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 368 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 369 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 370 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 371 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 372 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 373 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 374 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 375 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 376 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 377 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 378 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 379 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 380 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 381 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 382 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 383 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 384 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 385 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 386 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 387 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 388 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 389 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 390 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 391 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 392 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 393 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 394 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 395 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 396 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 397 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 398 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 399 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 400 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 401 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 402 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 403 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 404 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 405 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 406 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 407 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 408 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 409 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 410 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 411 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 412 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 413 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 414 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 415 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 416 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 417 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 418 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 419 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 420 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 421 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 422 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 423 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 424 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 425 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 426 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 427 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 428 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 429 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 430 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 431 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 432 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 433 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 434 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 435 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 436 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 437 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 438 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 439 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 440 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 441 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 442 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 443 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 444 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 445 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 446 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 447 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 448 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 449 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 450 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 451 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 452 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 453 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 454 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 455 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 456 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 457 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 458 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 459 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 460 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 461 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 462 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 463 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 464 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 465 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 466 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 467 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 468 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 469 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 470 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 471 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 472 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 473 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 474 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 475 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 476 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 477 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 478 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 479 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 480 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:22 UTC] PHP Notice:  Undefined offset: 481 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 17:58:26 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 17:58:26 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 17:58:26 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[19-Dec-2018 17:58:26 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[19-Dec-2018 18:04:53 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 18:04:53 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 18:11:53 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 18:11:53 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 18:11:53 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[19-Dec-2018 18:11:53 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[19-Dec-2018 18:15:55 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 18:15:55 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 18:15:56 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[19-Dec-2018 18:15:56 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[19-Dec-2018 18:16:37 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 18:16:37 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 18:16:37 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[19-Dec-2018 18:16:37 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[19-Dec-2018 18:19:43 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 18:19:43 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 18:19:43 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[19-Dec-2018 18:19:43 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[19-Dec-2018 18:20:00 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 18:20:00 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 18:20:00 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[19-Dec-2018 18:20:00 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[19-Dec-2018 18:20:13 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 18:20:13 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 18:20:13 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[19-Dec-2018 18:20:13 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[19-Dec-2018 18:21:21 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 18:21:21 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 18:21:21 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[19-Dec-2018 18:21:21 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[19-Dec-2018 18:23:35 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 18:23:35 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 18:26:35 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 18:26:35 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 18:26:35 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 103
+[19-Dec-2018 18:26:35 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 125
+[19-Dec-2018 18:34:12 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 18:34:12 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 19:05:04 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 19:05:04 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 19:05:04 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 111
+[19-Dec-2018 19:05:04 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 133
+[19-Dec-2018 19:05:42 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 19:05:42 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 4 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 5 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 6 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 7 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 8 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 9 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 10 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 11 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 12 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 13 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 14 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 15 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 16 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 17 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 18 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 19 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 20 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 21 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 22 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 23 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 24 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 25 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 26 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 27 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 28 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 29 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 30 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 31 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 32 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 33 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 34 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 35 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 36 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 37 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 38 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 39 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 40 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 41 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 42 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 43 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 44 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 45 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 46 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 47 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 48 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 49 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 50 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 51 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 52 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 53 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 54 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 55 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 56 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 57 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 58 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 59 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 60 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 61 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 62 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 63 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 64 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 65 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 66 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 67 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 68 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 69 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 70 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 71 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 72 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 73 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 74 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 75 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 76 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 77 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 78 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 79 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 80 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 81 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 82 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 83 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 84 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 85 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 86 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 87 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 88 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 89 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 90 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 91 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 92 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 93 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 94 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 95 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 96 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 97 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 98 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 99 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 100 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 101 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 102 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 103 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 104 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 105 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 106 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 107 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 108 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 109 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 110 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 111 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 112 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 113 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 114 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 115 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 116 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 117 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 118 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 119 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 120 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 121 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 122 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 123 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 124 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 125 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 126 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 127 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 128 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 129 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 130 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 131 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 132 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 133 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 134 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 135 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 136 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 137 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 138 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 139 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 140 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 141 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 142 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 143 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 144 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 145 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 146 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 147 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 148 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 149 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 150 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 151 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 152 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 153 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 154 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 155 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 156 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 157 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 158 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 159 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 160 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 161 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 162 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 163 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 164 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 165 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 166 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 167 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 168 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 169 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 170 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 171 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 172 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 173 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 174 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 175 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 176 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 177 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 178 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 179 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 180 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 181 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 182 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 183 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 184 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 185 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 186 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 187 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 188 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 189 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 190 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 191 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 192 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 193 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 194 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 195 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 196 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 197 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 198 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 199 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 200 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 201 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 202 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 203 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 204 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 205 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 206 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 207 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 208 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 209 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 210 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 211 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 212 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 213 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 214 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 215 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 216 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 217 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 218 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 219 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 220 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 221 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 222 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 223 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 224 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 225 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 226 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 227 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 228 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 229 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 230 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 231 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 232 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 233 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 234 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 235 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 236 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 237 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 238 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 239 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 240 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 241 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 242 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 243 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 244 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 245 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 246 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 247 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 248 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 249 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 250 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 251 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 252 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 253 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 254 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 255 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 256 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 257 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 258 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 259 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 260 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 261 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:05:56 UTC] PHP Notice:  Undefined offset: 262 in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/doupdate.php on line 9
+[19-Dec-2018 19:06:15 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 19:06:15 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 19:06:15 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 111
+[19-Dec-2018 19:06:15 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 133
+[19-Dec-2018 19:11:50 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 19:12:57 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 19:12:57 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 19:12:57 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 111
+[19-Dec-2018 19:12:57 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 133
+[19-Dec-2018 19:14:54 UTC] PHP Warning:  Use of undefined constant password - assumed 'password' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 19:14:54 UTC] PHP Warning:  Use of undefined constant email - assumed 'email' (this will throw an Error in a future version of PHP) in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 37
+[19-Dec-2018 19:14:54 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 111
+[19-Dec-2018 19:14:54 UTC] PHP Notice:  Undefined index: count in /home/ga4ez7l4byao/public_html/3FCY6Rpp/vW5qb8Kv/login.php on line 133

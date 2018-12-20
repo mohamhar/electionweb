@@ -1,1 +1,0 @@
-Folder for database files. Name is designed to stop random access to the DB login page
